@@ -36,8 +36,8 @@ const detailImages = {
   face_anonym: [
     require("../assets/face_anonym_1.png"),
     require("../assets/face_anonym_2.png"),
-    require("../assets/face_anonym_ak_base.jpg"),
-    require("../assets/face_anonym_ak.jpg"),
+    require("../assets/face_anonym_3.jpg"),
+    require("../assets/face_anonym_4.jpg"),
   ],
   face_expression: [
     require("../assets/face_expression_1.jpg"),
