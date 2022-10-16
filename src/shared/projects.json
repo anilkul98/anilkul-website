@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Acute Otitis Media Diagnose",
+    "summary": "The aim of the project is diagnosing the acute otitis media disease from the otoscope videos. It is a video classification task. MobileNet V2 is used as image feature extractor and LSTM with attention is used to extract information from temporal domain.",
+    "imgPath" : "otoscope"
+  },
+  {
+    "title": "Tooth Decay Diagnose",
+    "summary": "The aim of the project is detecting the tooth decay areas on the bitewing X-rays. After detecting tooths from bitewing image, image classifier is applied on it to detect whether the teeth is decayed or not. Also, with using class activation maps, it is also possible to locate the decayed areas probabilities on the tooth.",
+    "imgPath" : "dental_xray"
+  },
+  {
+    "title": "Biodiversity Detection From Satellite Images",
+    "summary": "The main aim of the project is detecting high biodiversity areas of North of the Sweden by using the high biodiversity areas of the South of Sweden. The problem is a segmentation problem, so the output is pixelwise detection of high biodiversity areas. UNet is used as an image segmentation network.",
+    "imgPath" : "bio_div_detection"
+  },
+  {
+    "title": "Cloud Detection from Sentinel2 Images",
+    "summary": "EfficientNetB4 model is used for training on a private dataset coming from a customer. The problem is solved as binary classification problem (Image has cloud or not). 98% accuracy is achieved.",
+    "imgPath" : ""
+  },
+  {
+    "title": "Change Detection on Satellite Images",
+    "summary": "It is very simple pixelwise change approach. Pixelwise absolute difference is applied on the satellite images that are belongs to same area and different times. The main aim is detecting the change on vegetation and detecting the new constructions.",
+    "imgPath" : "change_detection"
+  },
+  {
+    "title": "Multiple Object Tracking",
+    "summary": "Tracking the multiple humans in videos. MOT16 dataset is used for implementation.",
+    "imgPath" : "MOT"
+  },
+  {
+    "title": "Face Anonymizer",
+    "summary": "It is simple application to detect faces in the images and make them anonym by appliying gaussian blur. Retina face model is used as a face detector.",
+    "imgPath" : "face_anonym"
+  },
+  {
+    "title": "Facial Expression and Age Extraction",
+    "summary": "The main purpose of the project is detecting any number of faces from images and extracting the facial expressions and age from each detected faces. Pretrained RetinaNet is used for face detection. The emotion and age detection model is trained using the Wild faces and FER2013 datasets. The training is implemented in pytorch and EfficientNet algorithm is used to train.",
+    "imgPath" : "face_expression"
+  },
+  {
+    "title": "Next Action Prediction",
+    "summary": "It is a simple time series prediction implementation. The main aim is predicting the next action of the user in terms of mouse position and the action on the screen. Basic LSTM is used as a model and trained by action logs of real users.",
+    "imgPath" : ""
+  },
+  {
+    "title": "Handwriting Recognition",
+    "summary": "The aim is recognizing the handwriting coming from both online and offline sources. In offline sources it is an Image classifying problem. In online sources it is more feature classification. Feature extraction from online sources is done by some feature engineering. Trajectory length of each line, etc. can be an example of the feature.",
+    "imgPath" : ""
+  },
+  {
+    "title": "Food Scanner",
+    "summary": "The aim of the project is recognizing the foods from image and getting the recipe from it automatically in the mobile application. TensorFlow-lite model is used as food classifier in android application. MobilenetV2 is used as image classifier.",
+    "imgPath" : ""
+  },
+  {
+    "title": "Smart Cashier",
+    "summary": "It is a mobile application project that will be running in smart pos machines to automatically detect all foods in a tray and give the total bill automatically. YOLOv2 is used as object detector.",
+    "imgPath" : ""
+  }
+]

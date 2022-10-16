@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Machine Learning Software Engineer (Working Student)",
+    "subtitle": "SAP SE",
+    "subtitle2": "03.2022 - Present",
+    "summary": "Projects:",
+    "stringList": ["- I worked in a smart SAP service project as a data scientist. I am working with next action prediction, NLP techniques and image vectorization.",
+                   "- I worked in SAP DOX (document information extraction) product as machine learning software engineer."]
+  },
+  {
+    "title": "Machine Learning Engineer (Part-time)",
+    "subtitle": "Avantgarde",
+    "subtitle2": "11.2021 - 03.2022",
+    "summary": "Job Description: Worked on facial expression, age, gender and attention extraction from videos using deep learning models. I developed face extraction model, age predictor, emotion detection model.",
+    "stringList": []
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "subtitle": "Dcipher Analytics",
+    "subtitle2": "03.2021 - 11.2021",
+    "summary": "Projects:",
+    "stringList": ["- Biodiversity Detection From Satellite Images: The aim of the project is detecting the areas with high biodiversity from satellite images that are taken from Sentinel2 API",
+                   "- Acute Otitis Media Diagnose: The otoscope videos are used for training and product level. Worked with Autoencoders and clustering for frame selection from videos.",
+                   "- Tooth Decay Diagnose: The bitewing Xrays has used for training and product level. Decayed tooth and the the areas are determined with the help of DL classifiers and class activation maps."]
+  },
+  {
+    "title": "Undergraduate Research Assistant",
+    "subtitle": "Koc University IUI Lab",
+    "subtitle2": "03.2021 - 11.2021",
+    "summary": "Project: The aim of the project is extraction of Stylized Powerpoint slides from offline and online hand- written documents. or this project, I am working with tensorflow and OpenCv . We are using the YOLO, CNN and EAST models in our pipeline.",
+    "stringList": []
+  },
+  {
+    "title": "Co-Founder",
+    "subtitle": "TripRouter",
+    "subtitle2": "04.2019 - 06.2020",
+    "summary": "TripRouter is a mobile platform that make best trip plan according to users’ personal preferences by an artificial intelligence algorithm.",
+    "stringList": []
+  }  
+]
